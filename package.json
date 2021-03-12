@@ -1,7 +1,7 @@
 {
-  "name": "mi-proyecto-personal",
+  "name": "mi-proyecto-personal-coderhouse",
   "version": "1.0.0",
-  "description": "",
+  "description": "Este es un proyecto de ejemplo, basado en la el boceto que hice en mi primera clase.",
   "main": "index.html",
   "scripts": {
     "start": "serve",
